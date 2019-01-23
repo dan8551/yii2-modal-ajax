@@ -1,0 +1,8 @@
+package:
+    type:           yii2-extension
+    name:           yii2-modal-ajax
+    title:          Yii2 Bootstrap4 Modal Ajax
+    headline:       Yii2 Bootstrap4 Modal Ajax
+    keywords:       yii2, bootstrap, modal, ajax-modal
+    namespace:      mailery\widgets\modal
+    description:    Render any content in Yii2 Bootstrap 4 Modal via AJAX inside

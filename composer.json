@@ -1,0 +1,64 @@
+{
+    "name": "maileryio/yii2-modal-ajax",
+    "type": "yii2-extension",
+    "description": "Yii2 Bootstrap4 Modal Ajax",
+    "keywords": [
+        "yii2",
+        "bootstrap",
+        "modal",
+        "ajax-modal"
+    ],
+    "homepage": "https://github.com/maileryio/yii2-modal-ajax",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@mailery.io",
+        "source": "https://github.com/maileryio/yii2-modal-ajax",
+        "issues": "https://github.com/maileryio/yii2-modal-ajax/issues",
+        "wiki": "https://github.com/maileryio/yii2-modal-ajax/wiki",
+        "forum": "https://forum.mailery.io/"
+    },
+    "authors": [
+        {
+            "name": "Igor Maliy",
+            "role": "Project lead",
+            "email": "filsh@mailery.io"
+        },
+        {
+            "name": "David Carey",
+            "role": "Developer",
+            "email": "careydavid@mailery.io"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "yiisoft/yii2-bootstrap4": "^1.0@dev"
+    },
+    "require-dev": {
+        "hiqdev/hidev": "dev-master",
+        "hiqdev/hidev-php": "dev-master",
+        "hiqdev/hidev-travis": "dev-master",
+        "hiqdev/hidev-license": "dev-master",
+        "hiqdev/hidev-phpunit": "dev-master",
+        "hiqdev/hidev-composer": "dev-master",
+        "hiqdev/hidev-scrutinizer": "dev-master",
+        "maileryio/hidev-mailery": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "mailery\\widgets\\modal\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
