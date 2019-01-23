@@ -7,6 +7,8 @@
 
 ## [Development started] - 2019-01-23
 
+## [1.0.1] - 2019-01-23
+
 [@filsh]: https://github.com/filsh
 [filsh@mailery.io]: https://github.com/filsh
 [@careydavid]: https://github.com/careydavid
@@ -15,3 +17,4 @@
 [0d02711]: https://github.com/maileryio/yii2-modal-ajax/commit/0d02711
 [Under development]: https://github.com/maileryio/yii2-modal-ajax/releases
 [1.0.0]: https://github.com/maileryio/yii2-modal-ajax/releases/tag/1.0.0
+[Development started]: https://github.com/maileryio/yii2-modal-ajax/compare/1.0.1...Development started
