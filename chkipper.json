@@ -1,0 +1,17 @@
+{
+    "name": "maileryio/yii2-modal-ajax",
+    "authors": {
+        "filsh": {
+            "name": "Igor Maliy",
+            "role": "Project lead",
+            "email": "filsh@mailery.io",
+            "github": "https://github.com/filsh"
+        },
+        "careydavid": {
+            "name": "David Carey",
+            "role": "Developer",
+            "email": "careydavid@mailery.io",
+            "github": "https://github.com/careydavid"
+        }
+    }
+}
